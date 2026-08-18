@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.CalculatorApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_button</item>
+        <item name="colorPrimaryDark">@color/purple_button</item>
+        <item name="colorAccent">@color/purple_button</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+</resources>
